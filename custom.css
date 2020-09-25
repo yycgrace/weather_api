@@ -1,0 +1,99 @@
+* {
+  font-family: "Sora";
+}
+
+body {
+  /* background-color: rgb(5, 56, 45); */
+  background-image: url("dominik-schroder-unsplash.jpg");
+  background-size: cover;
+  /* background-attachment: fixed; */
+  overflow-x: hidden;
+}
+
+#load{
+  position: absolute;
+  width: 100vw;
+  height: 1200px;
+  background: #000;
+  z-index: 5;
+
+  display: flex;
+  justify-content: center;
+}
+
+#load>h1{
+  margin-top: 50vh;
+}
+
+path {
+  stroke: #B99362;
+  fill: transparent;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  cursor: pointer;
+}
+path:hover {
+  fill: #B99362;
+  -webkit-transform: translate(-5px, -5px);
+          transform: translate(-5px, -5px);
+}
+path:active {
+  fill: #B99362;
+}
+
+.title_area {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  color: #B99362;
+}
+
+hr {
+  width: 100px;
+  margin-left: 0;
+  border: none;
+  border-bottom: solid 2px #B99362;
+}
+
+.forcast h2, .forcast h4, .forcast h5 {
+  margin: 0;
+}
+
+#cards {
+  display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
+}
+
+#app{
+  position: fixed;
+  top: 0;
+  right: 10px;
+}
+
+#dt{
+  background-color: #eeea;
+  white-space:nowrap;
+}
+
+#dt > img {
+  height: 10px;
+}
+
+#dt > thead{
+  background-color: #B99362;
+  color: #eee;
+}
+
+#dt >tbody{
+  color:  #B99362;
+}
+
+/* #modalCenter{
+  z-index: 99;
+} */
+
+.modal-backdrop {  z-index: -1;}
+/* modalCenter */
+
+

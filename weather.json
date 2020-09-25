@@ -1,0 +1,112 @@
+[
+    {
+        "tag": "path2675",
+        "name": "Lienchiang_County",
+        "place": "連江縣"
+    },
+    {
+        "tag": "path2651",
+        "name": "Kinmen_County",
+        "place": "金門縣"
+    },
+    {
+        "tag": "path3690",
+        "name": "Yilan_County",
+        "place": "宜蘭縣"
+    },
+    {
+        "tag": "path2726",
+        "name": "Hsinchu_County",
+        "place": "新竹縣"
+    },
+    {
+        "tag": "path2781",
+        "name": "Miaoli_County", 
+        "place": "苗栗縣"
+    },
+    {
+        "tag": "path2785",
+        "name": "Changhua_County",
+        "place": "彰化縣"
+    },
+    {
+        "tag": "path2425",
+        "name": "Nantou_County",
+        "place": "南投縣"
+    },
+    {
+        "tag": "path2812",
+        "name": "Yunlin_County",
+        "place": "雲林縣"
+    },
+    {
+        "tag": "path2907",
+        "name": "Chiayi_County",
+        "place": "嘉義縣"
+    },
+    {
+        "tag": "path2861",
+        "name": "Pingtung_County",
+        "place": "屏東縣"
+    },
+    {
+        "tag": "path2856",
+        "name": "Taitung_County",
+        "place": "臺東縣"
+    },
+    {
+        "tag": "path2843",
+        "name": "Hualien_County", 
+        "place": "花蓮縣"
+    },
+    {
+        "tag": "path2482",
+        "name": "Penghu_County",
+        "place": "澎湖縣"
+    },
+    {
+        "tag": "path3635",
+        "name": "Keelung_city",
+        "place": "基隆市"
+    },
+    {
+        "tag": "path2732",
+        "name": "Hsinchu_city",
+        "place": "新竹市"
+    },
+    {
+        "tag": "path2421",
+        "name": "Chiayi_city",
+        "place": "嘉義市"
+    },
+    {
+        "tag": "path2531",
+        "name": "Taipei_city",
+        "place": "臺北市"
+    },
+    {
+        "tag": "path2891",
+        "name": "Kaohsiung_city",
+        "place": "高雄市"
+    },
+    {
+        "tag": "path3699",
+        "name": "New_Taipei_city",
+        "place": "新北市"
+    },
+    {
+        "tag": "path2792",
+        "name": "Taichung_city",
+        "place": "臺中市"
+    },
+    {
+        "tag": "path2905",
+        "name": "Tainan_city",
+        "place": "臺南市"
+    },
+    {
+        "tag": "path2707",
+        "name": "Taoyuan_city",
+        "place": "桃園市"
+    }
+]

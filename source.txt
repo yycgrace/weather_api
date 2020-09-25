@@ -1,0 +1,13 @@
+API
+中文
+https://data.coa.gov.tw/Service/OpenData/ODwsv/ODwsvTravelStay.aspx
+英文版
+https://data.coa.gov.tw/Service/OpenData/ODwsv/ODwsvTravelStayEn.aspx
+
+農業開放資料服務平台
+https://agridata.coa.gov.tw/open_detail.aspx?id=198
+https://agridata.coa.gov.tw/open_detail.aspx?id=H49
+
+
+氣象局未來一周24小時氣象
+https://opendata.cwb.gov.tw/fileapi/v1/opendataapi/F-D0047-091?Authorization=CWB-77F7EF76-6578-458C-ACDF-72ABF4BE7727&downloadType=WEB&format=JSON
